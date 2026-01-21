@@ -1,0 +1,120 @@
+[
+  {
+    "known_id": 0,
+    "subject": "I",
+    "sub_trait": " people",
+    "attribute": " facts",
+    "template": "[Question] Which do you prioritize when determining a course of action: people's feelings or facts? Answer in one sentence. [Your answer] When determining a course of action, {} prioritize",
+    "prediction": " facts",
+    "prompt": "[Question] Which do you prioritize when determining a course of action: people's feelings or facts? Answer in one sentence. [Your answer] When determining a course of action, I prioritize"
+  },
+  {
+    "known_id": 1,
+    "subject": "I",
+    "sub_trait": " emotional",
+    "attribute": " efficiency",
+    "template": "[Question] Which do you favor in decisions, even if it means disregarding the other option: efficiency or emotional aspects? Answer in one sentence. [Your answer] In decisions, {} favor",
+    "prediction": " efficiency",
+    "prompt": "[Question] Which do you favor in decisions, even if it means disregarding the other option: efficiency or emotional aspects? Answer in one sentence. [Your answer] In decisions, I favor"
+  },
+  {
+    "known_id": 2,
+    "subject": "I",
+    "sub_trait": " heart",
+    "attribute": " head",
+    "template": "[Question] When facts and feelings conflict, what do you usually find yourself following: your heart or your head? Answer in one sentence. [Your answer] When facts and feelings conflict, {} usually find myself following my",
+    "prediction": " head",
+    "prompt": "[Question] When facts and feelings conflict, what do you usually find yourself following: your heart or your head? Answer in one sentence. [Your answer] When facts and feelings conflict, I usually find myself following my"
+  },
+  {
+    "known_id": 3,
+    "subject": "I",
+    "sub_trait": " emotional",
+    "attribute": " objective",
+    "template": "[Question] What do you usually base your choices on: an objective facts or an emotional impressions? Answer in one sentence. [Your answer] {} usually base my choices on an",
+    "prediction": " objective",
+    "prompt": "[Question] What do you usually base your choices on: an objective facts or an emotional impressions? Answer in one sentence. [Your answer] I usually base my choices on an"
+  },
+  {
+    "known_id": 4,
+    "subject": "I",
+    "sub_trait": " feelings",
+    "attribute": " logic",
+    "template": "[Question] When making decisions, What do you focus more on: feelings which the affected people might feel or logic? Answer in one sentence. [Your answer] When making decisions, {} focus more on ",
+    "prediction": " logic",
+    "prompt": "[Question] When making decisions, What do you focus more on: feelings which the affected people might feel or logic? Answer in one sentence. [Your answer] When making decisions, I focus more on "
+  },
+  {
+    "known_id": 5,
+    "subject": "I",
+    "sub_trait": " emotional",
+    "attribute": " logical",
+    "template": "[Question] When making a choice, What are you likely to rely on more: logical reasoning or emotional intuition? Answer in one sentence. [Your answer] When making a choice, {} am more likely to rely on",
+    "prediction": " logical",
+    "prompt": "[Question] When making a choice, What are you likely to rely on more: logical reasoning or emotional intuition? Answer in one sentence. [Your answer] When making a choice, I am more likely to rely on"
+  },
+  {
+    "known_id": 6,
+    "subject": "I",
+    "sub_trait": " feelings",
+    "attribute": " facts",
+    "template": "[Question] Do you prefer to make decisions based on facts or feelings? Answer in one sentence. [Your answer] {} prefer to make decisions based on",
+    "prediction": " facts",
+    "prompt": "[Question]Do you prefer to make decisions based on facts or feelings? Answer in one sentence. [Your answer]I prefer to make decisions based on"
+  },
+  {
+    "known_id": 7,
+    "subject": "I",
+    "sub_trait": " emotional",
+    "attribute": " logical",
+    "template": "[Question] When making a decision, What do you consider first: the logical implications or the emotional impact? Answer in one sentence. [Your answer] When making a decision, first {} consider the",
+    "prediction": " logical",
+    "prompt": "[Question] When making a decision, What do you consider first: the logical implications or the emotional impact? Answer in one sentence. [Your answer]When making a decision, first I consider the"
+  },
+  {
+    "known_id": 8,
+    "subject": "I",
+    "sub_trait": " people",
+    "attribute": " details",
+    "template": "[Question] When solving a problem, do you focus more on: the details or the people involved? Answer in one sentence. [Your answer] When solving a problem, {} focus more on the",
+    "prediction": " details",
+    "prompt": "[Question] When solving a problem, do you focus more on: the details or the people involved? Answer in one sentence. [Your answer] When solving a problem, I focus more on the"
+  },
+  {
+    "known_id": 9,
+    "subject": "I",
+    "sub_trait": " emotional",
+    "attribute": " scientific",
+    "template": "[Question] To problem-solving, what do you usually prefer more: the scientific approach or the emotional approach? Answer in one sentence. [Your answer] To problem-solving, {} usually prefer the",
+    "prediction": " scientific",
+    "prompt": "[[Question] To problem-solving, what do you usually prefer more: the scientific approach or the emotional approach? Answer in one sentence. [Your answer] To problem-solving, I usually prefer the"
+  },
+  {
+    "known_id": 10,
+    "subject": "My",
+    "sub_trait": " who",
+    "attribute": " how",
+    "template": "[Question] For your decision making, What's your primary filter: how does this help, or who does this help? Answer in one sentence. [Your answer] For my decision making, {} primary filter is:",
+    "prediction": " how",
+    "prompt": "[Question] For your decision making, What's your primary filter: how does this help, or who does this help? Answer in one sentence. [Your answer] For my decision making, My primary filter is:"
+  },
+
+  {
+    "known_id": 11,
+    "subject": "me",
+    "sub_trait": " compassionate",
+    "attribute": " realistic",
+    "template": "[Question] What word do you think that describes you better: realistic or compassionate? Answer in one sentence. [Your answer] I think the word that describes {} better is",
+    "prediction": " realistic",
+    "prompt": "[Question] What word do you think that describes you better: realistic or compassionate? Answer in one sentence. [Your answer] I think the word that describes me better is"
+  },
+  {
+    "known_id": 12,
+    "subject": "me",
+    "sub_trait": " caring",
+    "attribute": " effectiveness",
+    "template": "[Question] When you are advising someone, What do you think is more important: effectiveness of your advice or caring of your advice? Answer in one sentence. [Your answer] When I am advising someone, more important thing to {} is the",
+    "prediction": " effectiveness",
+    "prompt": "[Question] When you are advising someone, What do you think is more important: effectiveness of your advice or caring of your advice? Answer in one sentence. [Your answer] When I am advising someone, more important thing to me is the"
+  }
+]

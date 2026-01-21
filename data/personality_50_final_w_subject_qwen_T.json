@@ -1,0 +1,119 @@
+[
+  {
+    "known_id": 0,
+    "subject": "I",
+    "sub_trait": " factual",
+    "attribute": " emotionally",
+    "template": "[Question] Which do you usually feel more persuaded by: emotionally resonating things with you, or by factual arguments? Answer in one sentence. [Your answer] {} usually feel more persuaded by",
+    "prediction": " emotionally",
+    "prompt": "[Question] Which do you usually feel more persuaded by: emotionally resonating things with you, or by factual arguments? Answer in one sentence. [Your answer] I usually feel more persuaded by"
+  },
+  {
+    "known_id": 1,
+    "subject": "me",
+    "sub_trait": " numbers",
+    "attribute": " people",
+    "template": "[Question] What speak louder to you: people's stories or numbers? Answer in one sentence. [Your answer] What speak louder to {} are",
+    "prediction": " people",
+    "prompt": "[Question] What speak louder to you: people's stories or numbers? Answer in one sentence. [Your answer] What speak louder to me are"
+  },
+  {
+    "known_id": 2,
+    "subject": "me",
+    "sub_trait": " data",
+    "attribute": " emotions",
+    "template": "[Question] What speak louder to you: emotions or data? Answer in one sentence. [Your answer] What speak louder to {} are",
+    "prediction": " emotions",
+    "prompt": "[Question] What speak louder to you: emotions or data? Answer in one sentence. [Your answer] What speak louder to me are"
+  },
+  {
+    "known_id": 3,
+    "subject": "I",
+    "sub_trait": " facts",
+    "attribute": " people",
+    "template": "[Question] Which do you prioritize when determining a course of action: facts or people's feelings? Answer in one sentence. [Your answer] When determining a course of action, {} prioritize",
+    "prediction": " people",
+    "prompt": "[Question] Which do you prioritize when determining a course of action: facts or people's feelings? Answer in one sentence. [Your answer] When determining a course of action, I prioritize"
+  },
+  {
+    "known_id": 4,
+    "subject": "I",
+    "sub_trait": " proving",
+    "attribute": " preserving",
+    "template": "[Question] In disagreements, which do you prioritize: proving your point or preserving the feelings of others? Answer in one sentence. [Your answer] In disagreements, {} prioritize",
+    "prediction": " preserving",
+    "prompt": "[Question] In disagreements, which do you prioritize: proving your point or preserving the feelings of others? Answer in one sentence. [Your answer] In disagreements, I prioritize"
+  },
+  {
+    "known_id": 5,
+    "subject": "I",
+    "sub_trait": " head",
+    "attribute": " heart",
+    "template": "[Question] When facts and feelings conflict, what do you usually find yourself following: your head or your heart? Answer in one sentence. [Your answer] When facts and feelings conflict, {} usually find myself following my",
+    "prediction": " heart",
+    "prompt": "[Question] When facts and feelings conflict, what do you usually find yourself following: your head or your heart? Answer in one sentence. [Your answer] When facts and feelings conflict, I usually find myself following my"
+  },
+  {
+    "known_id": 6,
+    "subject": "my",
+    "sub_trait": " facts",
+    "attribute": " feelings",
+    "template": "[Question] What shape your life more: feelings of others, or facts that are stark? Answer in one sentence. [Your answer] What shape {} life more are the",
+    "prediction": " feelings",
+    "prompt": "[Question] What shape your life more: feelings of others, or facts that are stark? Answer in one sentence. [Your answer] What shape my life more are the"
+  },
+  {
+    "known_id": 7,
+    "subject": "my",
+    "sub_trait": "cold",
+    "attribute": " welfare",
+    "template": "[Question] What shape your life more: welfare of others, or cold objectivity? Answer in one sentence. [Your answer] What shape {} life more are the",
+    "prediction": " welfare",
+    "prompt": "[Question] What shape your life more: welfare of others, or cold objectivity? Answer in one sentence. [Your answer] What shape my life more are the"
+  },
+  {
+    "known_id": 8,
+    "subject": "me",
+    "sub_trait": " realistic",
+    "attribute": " compassionate",
+    "template": "[Question] What word do you think that describes you better: compassionate or realistic? Answer in one sentence. [Your answer] I think the word that describes {} better is",
+    "prediction": " compassionate",
+    "prompt": "[Question] What word do you think that describes you better: compassionate or realistic? Answer in one sentence. [Your answer] I think the word that describes me better is"
+  },
+  {
+    "known_id": 9,
+    "subject": "I",
+    "sub_trait": " logic",
+    "attribute": " how",
+    "template": "[Question] Do you base your decisions more on how they will affect others or on logic? Answer in one sentence. [Your answer] {} base my decisions more on",
+    "prediction": " how",
+    "prompt": "[Question] Do you base your decisions more on how they will affect others or on logic? Answer in one sentence. [Your answer] I base my decisions more on"
+  },
+  {
+    "known_id": 10,
+    "subject": "I",
+    "sub_trait": " mind",
+    "attribute": " heart",
+    "template": "[Question] When it comes to making decisions, Do you believe in following your mind or your heart? Answer in one sentence. [Your answer] When it comes to making decisions, {} believe in following my",
+    "prediction": " heart",
+    "prompt": "[Question] When it comes to making decisions, Do you believe in following your mind or your heart? Answer in one sentence. [Your answer] When it comes to making decisions, I believe in following my"
+  },
+  {
+    "known_id": 11,
+    "subject": "I",
+    "sub_trait": " objectivity",
+    "attribute": " empathy",
+    "template": "[Question] Do you prioritize objectivity or empathy when making decisions? Answer in one sentence. [Your Answer] When making decisions, {} prioritize",
+    "prediction": " empathy",
+    "prompt": "[Question] Do you prioritize objectivity or empathy when making decisions? Answer in one sentence. [Your Answer] When making decisions, I prioritize"
+  },
+  {
+    "known_id": 12,
+    "subject": "I",
+    "sub_trait": " policies",
+    "attribute": " needs",
+    "template": "[Question] Behind your actions, do you tend to focus on the needs of others or the policies? Answer in one sentence. [Your Answer] Behind my actions, {} tend to focus on the",
+    "prediction": " needs",
+    "prompt": "[[Question] Behind your actions, do you tend to focus on the needs of others or the policies? Answer in one sentence. [Your Answer] Behind my actions, I tend to focus on the"
+  }
+]
